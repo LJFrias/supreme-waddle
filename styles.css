@@ -6,3 +6,14 @@ h1 {
     font-family: cursive;
 
 }
+
+ol {
+    color: purple;
+    font-size: 25px;
+}
+
+h2 {
+    color: orange;
+    text-decoration: underline black;
+    font-size: 40px;
+}
